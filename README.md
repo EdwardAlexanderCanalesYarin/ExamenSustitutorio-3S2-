@@ -7,6 +7,7 @@ Creo la clase TestColocacionDePiezas, luego:
 - El tercer test es llamado ColacarEnElTableroDeFormaInvalidaEnUnaCasillaOcupada (Prueba: lugar ocupado) donde se espera una excepcion en caso se coloca la pieza en una casilla ocupada.
 
 // CODIGO de la clase TestColocacionDePiezas
+```
 import org.example.TicTacToe;
 import org.junit.Before;
 import org.junit.Test;
@@ -48,3 +49,4 @@ public class TestColocacionDePiezas {
         }
     }
 }
+```
